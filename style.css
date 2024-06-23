@@ -1,0 +1,640 @@
+*{
+	box-sizing: border-box;
+	padding: 0px; margin: 0px;
+}
+
+@charset "utf-8";
+
+body{
+	margin:0;
+	padding:0;
+	background-color:#F1F1F1;
+}
+
+
+
+#details-section {
+	
+}
+
+section{
+	width:100%;
+	height:1150px;
+	box-sizing:border-box;
+	float:left;
+	border-width:0px;
+	border-color:red;
+	border-style:solid;
+	padding:20px;
+	
+}
+
+#img-con{
+	width:35%;
+	height:auto;
+	box-sizing:border-box;
+	border-width:0px;
+	border-color:blue;
+	border-style:solid;
+	float:left;
+	box-shadow: 0px 0px 10px gray;
+	padding: 10px;
+	background: white;
+
+	
+}
+
+#img-box{
+	width:100%;
+	height:300px;
+	box-sizing:border-box;
+	float:left;
+	border-width:0px;
+	border-color:red;
+	border-style:solid;
+	
+}
+
+#img-sec-box{
+	width:100%;
+	height:760px;
+	box-sizing:border-box;
+	border-width:0px;
+	border-style:solid;
+	border-color:red;
+	float:left;
+	background-color:white;
+}
+
+#fa-brife{
+	width:100%;
+	height:25px;
+	box-sizing:border-box;
+	border-width:0px;
+	border-style:solid;
+	border-color:red;
+	float:left;
+	margin-top:10px;
+}
+
+#brife-icon{
+	float:left;
+	color:#009688;
+	margin-left:14px;
+	font-size:20px;
+}
+
+
+
+#dgn-deco{
+	padding:0;
+	margin:0;
+	float:left;
+	font-size:18px;
+	margin-left:18px;
+	color:gray;
+	font-family:sans-serif;
+	font-weight:normal;
+}
+
+.skills{
+	margin-bottom:10px;
+	
+}
+
+
+#adobe{
+	width:100%;
+	height:40px;
+	float:left;
+	box-sizing:border-box;
+	border-width:0px;
+	border-color:blue;
+	border-style:solid;
+	
+}
+
+#adope-photo{
+	margin:0;
+	padding:0;
+	font-weight:bold;
+	color:gray;
+	font-family:sans-serif;
+	font-size:17px;
+	margin-left:10px;
+	margin-top:8px;
+}
+
+#border-radius{
+	width:100%;
+	height:19px;
+	box-sizing:border-box;
+	border-width:0px;
+	border-style:solid;
+	border-color:red;
+	float:left;
+	border-radius:50px;
+	background-color:lightgray;
+
+	
+}
+
+#border-radius-under{
+    width:90%;
+	height:17px;
+	box-sizing:border-box;
+	border-width:0px;
+	border-style:solid;
+	border-color:red;
+	float:left;
+	border-radius:50px;
+	background-color:#009688;
+	color:white;
+	text-align:center;
+	
+}
+
+
+
+#border-radius-2{
+	width:100%;
+	height:19px;
+	box-sizing:border-box;
+	border-width:0px;
+	border-style:solid;
+	border-color:red;
+	float:left;
+	border-radius:50px;
+	background-color:lightgray;
+	
+}
+	
+
+#border-radius-under-2{
+    width:80%;
+	height:17px;
+	box-sizing:border-box;
+	border-width:0px;
+	border-style:solid;
+	border-color:red;
+	float:left;
+	border-radius:50px;
+	background-color:#009688;
+	color:white;
+	text-align:center;
+	
+}
+
+
+
+#border-radius-3{
+	width:100%;
+	height:19px;
+	box-sizing:border-box;
+	border-width:0px;
+	border-style:solid;
+	border-color:red;
+	float:left;
+	border-radius:50px;
+	background-color:lightgray;
+	
+}
+	
+
+#border-radius-under-3{
+    width:70%;
+	height:17px;
+	box-sizing:border-box;
+	border-width:0px;
+	border-style:solid;
+	border-color:red;
+	float:left;
+	border-radius:50px;
+	background-color:#009688;
+	color:white;
+	text-align:center;
+	
+}
+
+
+
+#border-radius-4{
+	width:100%;
+	height:19px;
+	box-sizing:border-box;
+	border-width:0px;
+	border-style:solid;
+	border-color:red;
+	float:left;
+	border-radius:50px;
+	background-color:lightgray;
+	
+}
+
+
+#border-radius-under-4{
+    width:60%;
+	height:17px;
+	box-sizing:border-box;
+	border-width:0px;
+	border-style:solid;
+	border-color:red;
+	float:left;
+	border-radius:50px;
+	background-color:#009688;
+	color:white;
+	text-align:center;
+	
+}
+
+/*end border-radius coading*/
+
+/*start globe coading*/
+
+#globe-box{
+	width:100%;
+	height:25px;
+	box-sizing:border-box;
+	float:left;
+	border-width:0px;
+	border-color:red;
+	border-style:solid;
+	margin-top:30px;
+}
+
+#globe-box-eng{
+	width:100%;
+	height:25px;
+	box-sizing:border-box;
+	float:left;
+	border-width:0px;
+	border-color:red;
+	border-style:solid;
+	margin-top:20px;
+}
+
+
+
+#fa-globe{
+	float:left;
+	color:#009688;
+	font-size:20px;
+	margin-left:10px;
+}
+
+#lang-dgn{
+	color:gray;
+	padding:0;
+	margin:0;
+	font-weight:bold;
+	font-family:sans-serif;
+	font-size:17px;
+	margin-left:50px;
+}
+
+#eng-dgn{
+	color:gray;
+	padding:0;
+	margin:0;
+	font-weight:bold;
+	font-family:sans-serif;
+	font-size:17px;
+	margin-left:10px;
+
+}
+
+#eng-radius{
+	width:100%;
+	height:20px;
+	box-sizing:border-box;
+	border-width:0px;
+	border-style:solid;
+	border-color:red;
+	float:left;
+	border-radius:50px;
+	background-color:#009688;
+	color:white;
+	margin-top:10px;
+	
+}
+
+
+#globe-radius-2{
+	width:100%;
+	height:20px;
+	box-sizing:border-box;
+	float:left;
+    border-width:0px;
+    border-color:red;
+    border-style:solid;	
+	border-radius:50px;
+	background-color:lightgray;
+	margin-top:10px;
+}
+
+#spanish-radius-2{
+	width:60%;
+	height:20px;
+	box-sizing:border-box;
+	background-color:#009688;
+	border-radius:50px;
+}
+
+
+#globe-radius-3{
+	width:100%;
+	height:20px;
+	box-sizing:border-box;
+	float:left;
+    border-width:0px;
+    border-color:red;
+    border-style:solid;	
+	border-radius:50px;
+	background-color:lightgray;
+	margin-top:10px;
+}
+
+
+#spanish-radius-3{
+	width:30%;
+	height:20px;
+	box-sizing:border-box;
+	background-color:#009688;
+	border-radius:50px;
+}
+
+/*end first box coading*/
+
+
+
+
+
+
+/* Start Work Experience Con Coding Hre.. */
+#work-experience-con{
+	width:63.5%;
+	height:auto;
+	border: 0px solid gray;
+	float:right;
+	background-color:white;
+	padding:20px;
+	box-shadow: 0px 0px 10px gray;
+	margin-bottom:20px;
+}
+
+#work-exp-box1,#work-exp-box2,#work-exp-box3 {
+	width: 100%; height: auto;
+	border-bottom: 0px solid gray;
+	float: left;
+}
+#work-exp-sub-box1 {
+	width: 320px; height: auto;
+	border: 0px solid gray;
+	float: left;
+	padding: 0px;
+	margin-bottom: 20px;
+}
+#work-exp-sub-box1 h1 {
+	float: left;
+	font-family: sans-serif;
+	margin-top: 10px;
+	margin-left: 20px;
+	font-size: 32px;
+	color: gray;
+	font-weight: normal;
+}
+
+#front-end-box {
+	width: 100%; height: auto;
+	border: 0px solid gray;
+	float: left;
+	padding: 0px;
+	margin: 0px;
+	padding: 5px;
+}
+
+#front-end-box #p1 {
+	font-size: 19px;
+	font-family: sans-serif;
+	color: #8A8D93;
+	font-weight: bold;
+	margin: 10px 0px;
+}
+#front-end-box span {
+	color: #009688;
+	font-size: 16px;
+	font-family: sans-serif;
+	margin: 0px 12px;
+}
+#front-end-box span button {
+	padding: 5px 15px;
+	border: none;
+	background: #009688;
+	color: white;
+	border-radius: 5px;
+}
+
+#front-end-box #p2 {
+	font-family: sans-serif;
+	font-size: 14px;
+	margin: 15px 0px;
+	line-height: 24px;
+}
+
+/* And Work Experience Con Coding Hre.. */
+
+/*start education coading*/
+#edu-main-con{
+	width:63.5%;
+	height:530px;
+	box-sizing:border-box;
+	float:right;
+	border-width:0px;
+	border-color:red;
+	border-style:solid;
+	background-color:white;
+	padding:10px;
+	box-shadow: 0px 0px 10px gray;
+}
+
+#edu-box{
+width:100%;
+height:50px;
+box-sizing:border-box;
+float:left;
+border-width:0px;
+border-color:blue;
+border-style:solid;
+padding:3px;
+}
+
+
+#edu-icon{
+	color:#009688;
+	font-size:40px;
+	float:left;
+	margin-top:5px;
+}
+
+#edu-head{
+	color:gray;
+	padding:0;
+	margin:0;
+	font-family:sans-serif;
+	font-weight:normal;
+	font-size:40px;
+	margin-left:70px;
+}
+
+
+#w3-main-con{
+	width:100%;
+	height:450px;
+	box-sizing:border-box;
+	float:left;
+	border-width:0px;
+	border-style:solid;
+	border-color:gray;
+	padding:10px;
+}
+
+#w3-box{
+	width:100%;
+	height:120px;
+	box-sizing:border-box;
+	float:left;
+	border-width:0px;
+	border-style:solid;
+	border-color:red;
+	margin-bottom:px;
+}
+
+#schl-dgn{
+	padding:0;
+	margin:0;
+	font-size:20px;
+	color:gray;
+	font-family:sans-serif;
+	margin-bottom:20px;
+}
+
+#calendar-dgn{
+	color:#009688;
+	float:left;
+	
+}
+
+span{
+	color:#009688;
+	font-size:16px;
+	margin: 0px 15px;
+	font-family:sans-serif;
+	
+}
+
+#web-dgn{
+	font-size:18px;
+	font-family:sans-serif;
+	margin: 15px 0px;
+}
+
+/*end education coading*/
+
+/*start london coading*/
+#london-box{
+	width:100%;
+	height:130px;
+	box-sizing:border-box;
+	float:left;
+	border-width:0px;
+	border-style:solid;
+	border-color:red;
+	margin-top:20px;
+}
+
+
+/*end london coading*/
+
+
+/*start school box coading*/
+
+#school-box{
+	width:100%;
+	height:130px;
+	box-sizing:border-box;
+	float:left;
+	border-width:0px;
+	border-style:solid;
+	border-color:red;
+	margin-top:20px;
+	
+}
+
+/*end school box coading*/
+
+/*end section coading*/
+
+
+/*start footer coading*/
+ 
+footer{
+	width:100%;
+	height:130px;
+	box-sizing:border-box;
+	float:left;
+	background-color:#009688;
+	
+}
+
+#find-box{
+	width:100%;
+	height:35px;
+	box-sizing:border-box;
+	float:left;
+	border-width:0px;
+	border-style:solid;
+	border-color:white;
+	margin-top:10px;
+	
+}
+
+#find-dsn{
+	padding:0;
+	margin:0;
+	color:white;
+	font-family:sans-serif;
+	font-size:17px;
+	font-weight:normal;
+	margin-top:13px;
+	float:left;
+	margin-left:43%;
+
+}
+
+#face{
+	color:white;
+	margin-left:46%;
+}
+
+#insta{
+	color:white;
+	
+}
+
+#developer{
+	width:100%;
+	height:35px;
+	box-sizing:border-box;
+	float:left;
+	border-width:0px;
+	border-style:solid;
+	border-color:white;
+}
+
+#developer-dgn{
+	padding:0;
+	margin:0;
+	color:white;
+	margin-left:45%;
+	font-family:sans-serif;
+}
